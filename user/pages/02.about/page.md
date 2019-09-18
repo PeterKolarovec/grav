@@ -1,9 +1,9 @@
 ---
 title: About
+media_order: avatar.jpg
 class: home
 profile: true
 ---
 
-This is a standard page. It could be an **about page** or a summary page that outlines your many gifts and talents that you intend to bring to the world of web development.
-
-This page has the header attribute `profile: true` that causes the bio information to be displayed at the top of the page.
+<h1 align="center">Hi!</h1>
+I'm 23 years old and I'm currently based in Prague, Czech Republic studying [Information Technologies @ CVUT](https://fit.cvut.cz). Hopefully a data scientist one day...
