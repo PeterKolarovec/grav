@@ -1,0 +1,8 @@
+enabled: true
+author: 'Peter Kolarovec'
+title_header: true
+home_profile: true
+infinite_scroll: true
+social:
+  twitter: '@peterkolarovec'
+  facebook: peter.kolarovec
